@@ -1,0 +1,8 @@
+D:\Project For DevOps\FirstCSharpProjects\FirstCSharpProjects\bin\Debug\FirstCSharpProjects.exe.config
+D:\Project For DevOps\FirstCSharpProjects\FirstCSharpProjects\bin\Debug\FirstCSharpProjects.exe
+D:\Project For DevOps\FirstCSharpProjects\FirstCSharpProjects\bin\Debug\FirstCSharpProjects.pdb
+D:\Project For DevOps\FirstCSharpProjects\FirstCSharpProjects\obj\Debug\FirstCSharpProjects.csproj.AssemblyReference.cache
+D:\Project For DevOps\FirstCSharpProjects\FirstCSharpProjects\obj\Debug\FirstCSharpProjects.csproj.SuggestedBindingRedirects.cache
+D:\Project For DevOps\FirstCSharpProjects\FirstCSharpProjects\obj\Debug\FirstCSharpProjects.csproj.CoreCompileInputs.cache
+D:\Project For DevOps\FirstCSharpProjects\FirstCSharpProjects\obj\Debug\FirstCSharpProjects.exe
+D:\Project For DevOps\FirstCSharpProjects\FirstCSharpProjects\obj\Debug\FirstCSharpProjects.pdb
