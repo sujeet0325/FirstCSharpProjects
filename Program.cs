@@ -18,7 +18,7 @@ namespace FirstCSharpProjects
         {
             int a = 10, b = 20, c;
             c = a * b;
-            Console.WriteLine("Multiplication = " + c)
+            Console.WriteLine("Multiplication = " + c);
         }
         static void Main(string[] args)
         {
